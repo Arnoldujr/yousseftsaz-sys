@@ -1,60 +1,104 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey, I'm Youssef</h1>
 
-###
+<p align="center">
+  17 year old developer from Morocco<br>
+  Building Discord bots, automation tools and websites
+</p>
 
-<p align="left">My name is youssef and I'm a 17yo from Morocco</p>
+---
 
-###
+<h2 align="left">About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+  Creating advanced Discord bots and web applications<br>
+  Currently learning and improving with Node.js<br>
+  Working on Discord tools, systems and automation<br>
+  Goal: Build an active developer community
+</p>
 
-###
+---
 
-<p align="left">✨ Creating discord bots and websites<br>📚 I'm currently learning Nodejs<br>🎯 Goals: create an active developing server</p>
+<h2 align="left">Arizona Development</h2>
 
-###
+<p align="left">
+  Founder of Arizona Development<br>
+  A community focused on Discord bots, tools, automation and web development
+</p>
 
-<h2 align="left">I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yousseftsaz-sys/yousseftsaz-sys/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://youtube.com/@knyoussef?si=YhdkAlf-4XX-KHw7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<p align="left">
+  Join:
+  <a href="https://discord.gg/cnTvY8MAKu">
+    discord.gg/cnTvY8MAKu
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</p>
+
+---
+
+<h2 align="left">Languages & Tools</h2>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" />
+
 </div>
 
-###
+---
+
+<h2 align="left">Focus Areas</h2>
+
+```txt
+Discord.js v14
+Node.js Applications
+Automation Systems
+Web Development
+API Development
+FiveM / Lua Development
+```
+
+---
+
+<h2 align="left">Connect</h2>
+
+<div align="left">
+
+<a href="https://discord.gg/cnTvY8MAKu">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
+</a>
+
+<a href="https://youtube.com/@knyoussef">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+Arizona Development
+<br>
+Discord Bots • Tools • Automation
+</p>
